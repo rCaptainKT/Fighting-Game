@@ -1,4 +1,4 @@
-High school CS assignment from 2022
+High school CS assignment from 2022.
 
 To Execute Program
 1. Open a command line
